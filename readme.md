@@ -7,7 +7,7 @@
 Install Node.js, then:
 
 ```
-$ npx i4M1k0SU
+$ npx i4m1k0su
 ```
 
 

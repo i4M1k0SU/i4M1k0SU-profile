@@ -14,7 +14,7 @@
 	},
 	"bin": {
 		"i4M1k0SU": "source/cli.js",
-		"i4m1k0su": "source/cli.js",
+		"i4m1k0su": "source/cli.js"
 	},
 	"engines": {
 		"node": ">=8"
